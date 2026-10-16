@@ -126,6 +126,7 @@ This is a list of video game resources: game databases, wikis, preservation proj
 
 - [GameFAQs](https://gamefaqs.gamespot.com/) - Guides, FAQs and boards for games across generations.
 - [IGN Wikis](https://www.ign.com/wikis) - Walkthroughs and wikis for major releases.
+- [Over the Hill Database](https://overthehilldb.com/) - Unofficial database for the off-road game Over the Hill, with vehicles, wildlife, upgrades and an interactive map.
 - [Lutris](https://www.lutris.net/) - Open game manager for Linux with a database of install scripts.
 
 ## Franchise Databases
