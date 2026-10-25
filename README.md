@@ -34,6 +34,7 @@ This is a list of video game resources: game databases, wikis, preservation proj
 - [Atarimania](https://www.atarimania.com/) - Catalog of Atari games, hardware and manuals.
 - [World of Spectrum](https://worldofspectrum.org/) - Archive and database for the Sinclair ZX Spectrum.
 - [Games Database](https://www.gamesdatabase.org/) - Browsable catalog of games by platform.
+- [Recompiled Games](https://recompgames.net/) - Catalog of static recompilations and decompilation-based ports of retro games, with method, status and file requirements for each.
 
 ### Preservation and Archives
 
