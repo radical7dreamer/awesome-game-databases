@@ -145,6 +145,7 @@ This is a list of video game resources: game databases, wikis, preservation proj
 - [Routepedia](https://theroutepedia.com/) - Interactive maps for each of the 44 Pokémon games.
 - [SSBWiki](https://www.ssbwiki.com/) - Wiki about the Super Smash Bros. series.
 - [Stardewpedia](https://thestardewpedia.com/) - Stardew Valley reference for items, villagers, crops and recipes.
+- [Valheim Cheats](https://valheimcheats.com/) - Valheim console commands, item IDs, skills, creatures and extracted game data in one searchable reference.
 
 ## Speedrunning and Achievements
 
